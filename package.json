@@ -57,7 +57,12 @@
       {
         "language": "python",
         "path": "./snippets/python/unittest.json"
+      },
+       {
+        "language": "rust",
+        "path": "./snippets/rust.json"
       }
+
     ]
   }
 }
